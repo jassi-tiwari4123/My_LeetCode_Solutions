@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0041-first-missing-positive) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0035-search-insert-position) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
