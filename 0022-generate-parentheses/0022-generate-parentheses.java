@@ -5,7 +5,7 @@ class Solution {
         return ls;
     }
     public static void gp(int n,int open,int close,String ans,List ls){
-        if(ans.length()==2*n){
+        if(ans.length()==2*n || (open==n && close==n)){
             ls.add(ans);
             return;
         }
