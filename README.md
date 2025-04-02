@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2050-count-good-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2050-count-good-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
