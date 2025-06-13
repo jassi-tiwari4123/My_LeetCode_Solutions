@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2050-count-good-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2050-count-good-numbers) |
@@ -78,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
@@ -103,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
