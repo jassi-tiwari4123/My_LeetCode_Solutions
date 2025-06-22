@@ -15,11 +15,11 @@ class Solution {
         }
         ListNode fast=head;
         ListNode slow=head;
-        while(fast!=null && fast.next!=null){
+        while(fast.next!=null && fast.next.next!=null){
             slow=slow.next;
             fast=fast.next.next;
         }
-        ListNode newHead=slow;
+        ListNode newHead=slow.next;
         newHead=reverse(newHead);
         ListNode first=head;
         ListNode second=newHead;
