@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -140,5 +141,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
