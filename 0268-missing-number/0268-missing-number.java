@@ -1,18 +1,17 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        Arrays.sort(nums);
-        int j=0;
-        if(nums[0]==1){
-            return 0;
-        }
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]-nums[j]==1){
-                j++;
+        for(int i=0;i<=nums.length+1;i++){
+            boolean flag=false;
+            for(int j=0;j<nums.length;j++){
+                if(nums[j]==i){
+                    flag=true;
+                    break;
+                }
             }
-            else if(nums[i]-nums[j]==2){
-                return j+1;
+            if(flag==false){
+                return i;
             }
         }
-        return j+1;
+        return -1;
     }
 }
