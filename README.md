@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0941-sort-array-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0414-third-maximum-number) |
+| [0941-sort-array-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [3778-transform-array-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3778-transform-array-by-parity) |
