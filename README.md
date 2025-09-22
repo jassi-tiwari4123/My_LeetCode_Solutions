@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0792-binary-search) |
+| [0860-design-circular-queue](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0958-sort-array-by-parity-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0838-design-linked-list) |
+| [0860-design-circular-queue](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -218,10 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0838-design-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0838-design-linked-list) |
+| [0860-design-circular-queue](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0860-design-circular-queue](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0860-design-circular-queue) |
 ## Matrix
 |  |
 | ------- |
