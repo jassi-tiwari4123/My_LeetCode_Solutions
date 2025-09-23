@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [1034-subarrays-with-k-different-integers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
