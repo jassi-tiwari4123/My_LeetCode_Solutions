@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1603-running-sum-of-1d-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1013-fibonacci-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1013-fibonacci-number) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Backtracking
 |  |
 | ------- |
