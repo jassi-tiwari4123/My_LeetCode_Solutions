@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
+| [0742-to-lower-case](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0742-to-lower-case) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
