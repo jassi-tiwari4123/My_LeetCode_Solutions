@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0795-k-th-symbol-in-grammar](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [0830-largest-triangle-area](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1013-fibonacci-number) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0795-k-th-symbol-in-grammar](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2050-count-good-numbers) |
