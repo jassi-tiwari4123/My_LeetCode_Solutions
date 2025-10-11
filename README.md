@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0012-integer-to-roman) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0016-3sum-closest) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0120-triangle](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0120-triangle) |
