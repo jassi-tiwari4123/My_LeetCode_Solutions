@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2902-max-pair-sum-in-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2902-max-pair-sum-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3324-split-the-array) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3778-transform-array-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
