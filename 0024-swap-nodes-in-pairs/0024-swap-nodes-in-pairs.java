@@ -17,7 +17,6 @@ class Solution {
         ListNode two=head.next;
         one.next=swapPairs(two.next);
         two.next=one;
-        
         return two;
     }
 }
