@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0231-power-of-two) |
