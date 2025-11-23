@@ -22,19 +22,18 @@ class Solution {
         //     temp=front;
         // }
         // return prev;
-
-        ListNode prev=null;
-        return fun(head,prev);
         
-    }
-    public ListNode fun(ListNode head,ListNode prev){
-        if(head==null){
-            return prev;
+        //by recursion
+        if(head==null|| head.next==null){
+            return head;
         }
-      
-        ListNode next=head.next;
-        head.next=prev;
+        ListNode newHead=reverseList(head.next);
+        ListNode front=head.next;
+        front.next=head;
+        head.next=null;
+        return newHead;
         
-        return fun(next,head);
+        
     }
+    
 }
