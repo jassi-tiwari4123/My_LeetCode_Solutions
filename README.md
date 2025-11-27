@@ -463,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
