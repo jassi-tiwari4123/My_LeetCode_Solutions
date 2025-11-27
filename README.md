@@ -467,4 +467,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0182-duplicate-emails) |
+| [1757-recyclable-and-low-fat-products](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
