@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
