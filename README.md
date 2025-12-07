@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0197-rising-temperature) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0620-not-boring-movies](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0620-not-boring-movies) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Bucket Sort
