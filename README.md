@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0066-plus-one) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 ## Recursion
 |  |
