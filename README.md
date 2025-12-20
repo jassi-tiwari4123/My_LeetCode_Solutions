@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0134-gas-station) |
 | [0611-valid-triangle-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Union Find
 |  |
 | ------- |
