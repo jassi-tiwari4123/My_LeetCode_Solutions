@@ -7,9 +7,6 @@ class Solution {
             total+=candies[i];
             maximum=Math.max(candies[i],maximum);
         }
-        // if(total<k){
-        //     return 0;
-        // }
         long low=1;
         long high=maximum;
         long ans=0;
