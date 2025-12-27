@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0792-binary-search) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
