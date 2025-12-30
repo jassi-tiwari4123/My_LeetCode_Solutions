@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0830-largest-triangle-area) |
 | [0860-design-circular-queue](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0860-design-circular-queue) |
+| [0875-koko-eating-bananas](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
