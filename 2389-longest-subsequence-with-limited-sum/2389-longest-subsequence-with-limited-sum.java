@@ -10,13 +10,19 @@ class Solution {
         for(int i=0;i<m;i++){
             int sum=queries[i];
             int len=0;
-
-            for(int j=0;j<n;j++){
-                if(nums[j]<=sum){
-                    len++;
+            int low=0,high=n-1;
+            while(low<=high){
+                int mid=low+(high-low)/2;
+                if(sum>=nums[mid]){
+                    len=mid+1;
+                    low=mid+1;
+                }
+                else{
+                    high=mid-1;
                 }
             }
             arr.add(len);
+
         }
         int[] res=new int[arr.size()];
         for(int i=0;i<arr.size();i++){
