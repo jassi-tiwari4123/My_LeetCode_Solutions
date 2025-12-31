@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2902-max-pair-sum-in-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2902-max-pair-sum-in-an-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1603-running-sum-of-1d-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Divide and Conquer
 |  |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3778-transform-array-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3778-transform-array-by-parity) |
@@ -492,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Union Find
 |  |
 | ------- |
