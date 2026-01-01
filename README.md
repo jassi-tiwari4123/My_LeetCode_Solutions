@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1603-running-sum-of-1d-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1711-count-good-meals](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1711-count-good-meals) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0860-design-circular-queue](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0860-design-circular-queue) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Matrix
 |  |
 | ------- |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -643,9 +646,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [1046-last-stone-weight](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1046-last-stone-weight) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
