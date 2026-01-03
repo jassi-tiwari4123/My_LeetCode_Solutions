@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0941-sort-array-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
+| [0946-validate-stack-sequences](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0946-validate-stack-sequences) |
 | [0958-sort-array-by-parity-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0946-validate-stack-sequences](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0946-validate-stack-sequences) |
 | [2104-sum-of-subarray-ranges](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0946-validate-stack-sequences](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0946-validate-stack-sequences) |
 | [1389-create-target-array-in-the-given-order](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
