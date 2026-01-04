@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0165-compare-version-numbers) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0268-missing-number) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0946-validate-stack-sequences](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0946-validate-stack-sequences) |
 | [1389-create-target-array-in-the-given-order](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
