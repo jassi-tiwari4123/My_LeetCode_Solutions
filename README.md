@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0830-largest-triangle-area) |
