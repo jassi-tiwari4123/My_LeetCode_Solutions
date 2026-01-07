@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0312-burst-balloons](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0312-burst-balloons) |
 | [0334-increasing-triplet-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0312-burst-balloons) |
 | [0354-russian-doll-envelopes](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
