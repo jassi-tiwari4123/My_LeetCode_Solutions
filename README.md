@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0342-power-of-four) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
+| [0233-number-of-digit-one](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0312-burst-balloons) |
 | [0354-russian-doll-envelopes](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0354-russian-doll-envelopes) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0342-power-of-four) |
