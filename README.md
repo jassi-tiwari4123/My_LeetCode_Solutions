@@ -700,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-sales-analysis-iii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1084-sales-analysis-iii) |
 | [1158-market-analysis-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1158-market-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1164-product-price-at-a-given-date) |
+| [1174-immediate-food-delivery-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1179-reformat-department-table](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1179-reformat-department-table) |
 | [1251-average-selling-price](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1280-students-and-examinations) |
