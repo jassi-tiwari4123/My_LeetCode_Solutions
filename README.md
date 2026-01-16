@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0165-compare-version-numbers) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0120-triangle) |
