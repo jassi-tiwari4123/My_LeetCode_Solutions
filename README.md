@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1995-count-special-quadruplets](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1995-count-special-quadruplets) |
 | [2057-smallest-index-with-equal-value](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2057-smallest-index-with-equal-value) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
