@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1390-four-divisors](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
