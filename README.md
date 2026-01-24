@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3516-find-closest-person](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3516-find-closest-person) |
 | [3663-find-the-least-frequent-digit](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Prefix Sum
 |  |
