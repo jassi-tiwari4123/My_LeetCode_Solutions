@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-count-special-quadruplets](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1995-count-special-quadruplets) |
 | [2057-smallest-index-with-equal-value](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String Matching
