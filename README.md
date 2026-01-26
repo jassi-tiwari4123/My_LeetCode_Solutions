@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2104-sum-of-subarray-ranges](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2187-minimum-time-to-complete-trips](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2187-minimum-time-to-complete-trips) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1711-count-good-meals](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1711-count-good-meals) |
 | [1995-count-special-quadruplets](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1995-count-special-quadruplets) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2902-max-pair-sum-in-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2902-max-pair-sum-in-an-array) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0946-validate-stack-sequences](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0946-validate-stack-sequences) |
 | [1389-create-target-array-in-the-given-order](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
