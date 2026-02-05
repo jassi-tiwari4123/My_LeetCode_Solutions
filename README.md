@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3324-split-the-array) |
+| [3379-transformed-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3336-water-bottles-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Greedy
 |  |
