@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2902-max-pair-sum-in-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2902-max-pair-sum-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Union Find
 |  |
