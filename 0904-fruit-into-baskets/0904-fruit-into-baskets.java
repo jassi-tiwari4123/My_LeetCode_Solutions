@@ -26,7 +26,7 @@ class Solution {
         int maxLen=0;
         while(r<n){
             hm.put(nums[r],hm.getOrDefault(nums[r],0)+1);
-            while(hm.size()>2){
+            if(hm.size()>2){
                 if(l<r){
                     hm.put(nums[l],hm.getOrDefault(nums[l],0)-1);
                     if(hm.get(nums[l])==0) hm.remove(nums[l]);
