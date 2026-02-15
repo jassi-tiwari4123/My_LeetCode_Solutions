@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 ## Recursion
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0268-missing-number) |
