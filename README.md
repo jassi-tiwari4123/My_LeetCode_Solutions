@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1514-path-with-maximum-probability](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1603-running-sum-of-1d-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1711-count-good-meals](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1711-count-good-meals) |
@@ -878,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1046-last-stone-weight) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1514-path-with-maximum-probability](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1514-path-with-maximum-probability) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Queue
@@ -906,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0886-possible-bipartition) |
 | [0997-find-the-town-judge](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0997-find-the-town-judge) |
+| [1514-path-with-maximum-probability](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1791-find-center-of-star-graph](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -924,4 +927,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
