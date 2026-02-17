@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0200-number-of-islands) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0268-missing-number) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
