@@ -19,7 +19,7 @@ class Solution {
             adj.get(u).add(new Pair(v,w));
             adj.get(v).add(new Pair(u,w));
         }
-        double[] dist=new double[n+1];
+        double[] dist=new double[n];
         Arrays.fill(dist,0.0);
         PriorityQueue<Pair> pq=new PriorityQueue<>((a,b)->Double.compare(b.prob,a.prob));
         dist[start]=1.0;
