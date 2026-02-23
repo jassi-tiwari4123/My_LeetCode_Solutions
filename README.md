@@ -734,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0563-binary-tree-tilt) |
 | [0695-max-area-of-island](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0733-flood-fill) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0743-network-delay-time) |
@@ -925,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0886-possible-bipartition) |
@@ -937,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0886-possible-bipartition) |
