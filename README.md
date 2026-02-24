@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0990-satisfiability-of-equality-equations](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0742-to-lower-case) |
 | [0804-unique-morse-code-words](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0804-unique-morse-code-words) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0990-satisfiability-of-equality-equations](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1092-shortest-common-supersequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -939,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0886-possible-bipartition) |
+| [0990-satisfiability-of-equality-equations](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0997-find-the-town-judge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1514-path-with-maximum-probability) |
@@ -954,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0886-possible-bipartition) |
+| [0990-satisfiability-of-equality-equations](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Segment Tree
