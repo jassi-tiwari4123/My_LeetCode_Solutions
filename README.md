@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0769-max-chunks-to-make-sorted](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0804-unique-morse-code-words](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0804-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
+| [0721-accounts-merge](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0742-to-lower-case](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0742-to-lower-case) |
 | [0804-unique-morse-code-words](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0804-unique-morse-code-words) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0721-accounts-merge](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0769-max-chunks-to-make-sorted](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
@@ -741,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0563-binary-tree-tilt) |
 | [0684-redundant-connection](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
@@ -776,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
@@ -955,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0886-possible-bipartition) |
 | [0990-satisfiability-of-equality-equations](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0990-satisfiability-of-equality-equations) |
