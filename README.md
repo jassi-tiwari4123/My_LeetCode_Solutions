@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2000-reverse-prefix-of-word](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
