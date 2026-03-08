@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3324-split-the-array) |
 | [3379-transformed-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3379-transformed-array) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3693-climbing-stairs-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
 |  |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Design
 |  |
 | ------- |
@@ -742,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Union Find
 |  |
 | ------- |
@@ -879,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0907-sum-of-subarray-minimums](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Database
 |  |
 | ------- |
