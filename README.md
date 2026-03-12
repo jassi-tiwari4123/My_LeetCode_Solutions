@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -831,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -1073,4 +1077,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
