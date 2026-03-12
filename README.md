@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0997-find-the-town-judge) |
 | [1034-subarrays-with-k-different-integers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1018-largest-perimeter-triangle](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0563-binary-tree-tilt) |
 | [0690-employee-importance](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0690-employee-importance) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -810,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0886-possible-bipartition) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -829,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0563-binary-tree-tilt) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
@@ -852,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0886-possible-bipartition) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
