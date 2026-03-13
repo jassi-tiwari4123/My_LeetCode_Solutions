@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0419-battleships-in-a-board) |
 | [0455-assign-cookies](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0542-01-matrix) |
