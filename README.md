@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3324-split-the-array) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Divide and Conquer
 |  |
@@ -728,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Simulation
 |  |
 | ------- |
