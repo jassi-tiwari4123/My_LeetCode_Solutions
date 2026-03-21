@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2451-odd-string-difference](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2451-odd-string-difference) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1995-count-special-quadruplets) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+| [2451-odd-string-difference](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2451-odd-string-difference) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2902-max-pair-sum-in-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2902-max-pair-sum-in-an-array) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [2451-odd-string-difference](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2451-odd-string-difference) |
 | [2887-sort-vowels-in-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3462-vowels-game-in-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
