@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0455-assign-cookies) |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
