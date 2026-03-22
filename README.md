@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0057-insert-interval) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0072-edit-distance) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0164-maximum-gap) |
