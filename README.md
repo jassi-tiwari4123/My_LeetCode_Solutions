@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0390-elimination-game](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0377-combination-sum-iv](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
+| [0357-count-numbers-with-unique-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
