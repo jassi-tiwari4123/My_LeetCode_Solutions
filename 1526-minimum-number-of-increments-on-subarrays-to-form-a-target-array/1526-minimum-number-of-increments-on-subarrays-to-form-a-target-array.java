@@ -12,6 +12,5 @@ class Solution {
             prev=cur;
         }
         return res;
-        
     }
 }
