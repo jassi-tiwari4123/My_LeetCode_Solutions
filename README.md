@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0769-max-chunks-to-make-sorted](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0792-binary-search) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0741-cherry-pickup](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0834-sum-of-distances-in-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0834-sum-of-distances-in-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0741-cherry-pickup) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
