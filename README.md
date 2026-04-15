@@ -595,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0377-combination-sum-iv](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0377-combination-sum-iv) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
