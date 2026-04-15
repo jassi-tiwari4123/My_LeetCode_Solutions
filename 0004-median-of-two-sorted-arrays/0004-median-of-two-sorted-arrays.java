@@ -1,41 +1,61 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-    //     int[] arr=new int[nums1.length+nums2.length];
-    //     for(int i=0;i<nums1.length;i++){
-    //         arr[i]=nums1[i];
-    //     }
-    //     for(int i=0;i<nums2.length;i++){
-    //         arr[nums1.length+i]=nums2[i];
-    //     }
-    //     Arrays.sort(arr);
-    // //     //median
-    //     double median;
-    //     if(arr.length%2==0){
-    //         median=(arr[(arr.length/2)-1] + arr[arr.length/2])/2.0 ;
-    //     }
-    //     else{
-    //         median=arr[(arr.length/2)];
-    //     }
-    //     return median;
+        //my approach but TC-O((n+m)log(n+m))
+        // int n=nums1.length;
+        // int m=nums2.length;
+        // int[] nums=new int[n+m];
+        // for(int i=0;i<n;i++){
+        //     nums[i]=nums1[i];
+        // }
+        // for(int i=0;i<m;i++){
+        //     nums[n+i]=nums2[i];
+        // }
+        // Arrays.sort(nums);
+        // double median;
+        // if(nums.length%2==0){
+        //     median=(nums[(nums.length/2)-1]+nums[(nums.length/2)])/2.0;
+        // }
+        // else{
+        //     median=nums[nums.length/2];
+        // }
+        // return median;
 
+
+
+        //optimised TC-O(log(n+m))
         int n=nums1.length;
         int m=nums2.length;
-        int[] nums=new int[n+m];
-        for(int i=0;i<n;i++){
-            nums[i]=nums1[i];
+        if(n>m){
+            return findMedianSortedArrays(nums2,nums1);
         }
-        for(int i=0;i<m;i++){
-            nums[n+i]=nums2[i];
+        int size=n+m;
+        int left=(n+m+1)/2;
+        int low=0;
+        int high=n;
+        while(low<=high){
+            int mid1=low+(high-low)/2;
+            int mid2=left-mid1;
+            int l1=Integer.MIN_VALUE;
+            int l2=Integer.MIN_VALUE;
+            int r1=Integer.MAX_VALUE;
+            int r2=Integer.MAX_VALUE;
+            if(mid1<n) r1=nums1[mid1];
+            if(mid2<m) r2=nums2[mid2];
+            if(mid1-1>=0) l1=nums1[mid1-1];
+            if(mid2-1>=0) l2=nums2[mid2-1];
+            if(l1<=r2 && l2<=r1){
+                if(size%2==1){
+                    return Math.max(l1,l2);
+                }
+                return (double)(Math.max(l1,l2)+Math.min(r1,r2))/2.0;
+            }
+            else if(l1>r2){
+                high=mid1-1;
+            }
+            else{
+                low=mid1+1;
+            }
         }
-        Arrays.sort(nums);
-        double median;
-        if(nums.length%2==0){
-            median=(nums[(nums.length/2)-1]+nums[(nums.length/2)])/2.0;
-        }
-        else{
-            median=nums[nums.length/2];
-        }
-        return median;
-
+        return 0.0;
     }
 }
