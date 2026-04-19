@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [1995-count-special-quadruplets](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1995-count-special-quadruplets) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2057-smallest-index-with-equal-value](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
