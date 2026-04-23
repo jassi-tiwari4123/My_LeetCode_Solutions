@@ -5,15 +5,15 @@ class Solution {
         return Math.max(fxn(nums,0,n-2),fxn(nums,1,n-1));
     }
     public int fxn(int[] nums,int f,int l){
-        int p1=0;
-        int p2=0;
-        for(int i=f;i<=l;i++){
-            int take=nums[i]+p2;
-            int notake=p1;
-            int cur=Math.max(take,notake);
-            p2=p1;
-            p1=cur;
+        int n=l-f+1;
+        int[] dp=new int[n];
+        dp[0]=nums[f];
+        for(int i=1;i<n;i++){
+            int take=nums[f+i];
+            if(i>1) take+=dp[i-2];
+            int notake=dp[i-1];
+            dp[i]=Math.max(take,notake);
         }
-        return p1;
+        return dp[n-1];
     }
 }
