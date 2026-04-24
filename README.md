@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0690-employee-importance](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0695-max-area-of-island) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0646-maximum-length-of-pair-chain](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0741-cherry-pickup](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -1230,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0307-range-sum-query-mutable) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0729-my-calendar-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Shortest Path
@@ -1251,4 +1254,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0307-range-sum-query-mutable) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
