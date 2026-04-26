@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1514-path-with-maximum-probability](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2257-count-unguarded-cells-in-the-grid) |
@@ -979,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -1038,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -1229,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0886-possible-bipartition) |
 | [0990-satisfiability-of-equality-equations](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
