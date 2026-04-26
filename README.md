@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0414-third-maximum-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0414-third-maximum-number) |
