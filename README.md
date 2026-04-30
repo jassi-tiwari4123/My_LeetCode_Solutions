@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3693-climbing-stairs-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3693-climbing-stairs-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3778-transform-array-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2376-count-special-integers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2376-count-special-integers) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3693-climbing-stairs-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3693-climbing-stairs-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -884,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
