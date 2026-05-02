@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+| [0593-valid-square](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0593-valid-square) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0788-rotated-digits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0795-k-th-symbol-in-grammar) |
@@ -1147,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0593-valid-square) |
 | [0830-largest-triangle-area](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0830-largest-triangle-area) |
 | [1037-valid-boomerang](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1037-valid-boomerang) |
 ## Combinatorics
