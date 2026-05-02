@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0788-rotated-digits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [0830-largest-triangle-area](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0830-largest-triangle-area) |
 | [0908-smallest-range-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0908-smallest-range-i) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0741-cherry-pickup](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0788-rotated-digits) |
 | [0834-sum-of-distances-in-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0834-sum-of-distances-in-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1012-numbers-with-repeated-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1012-numbers-with-repeated-digits) |
