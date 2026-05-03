@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0742-to-lower-case](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0742-to-lower-case) |
+| [0796-rotate-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0804-unique-morse-code-words) |
 | [0929-unique-email-addresses](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -1145,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0796-rotate-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Brainteaser
 |  |
