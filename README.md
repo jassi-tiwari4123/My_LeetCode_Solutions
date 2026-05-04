@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3136-valid-word](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3136-valid-word) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2376-count-special-integers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2376-count-special-integers) |
 | [2582-pass-the-pillow](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2582-pass-the-pillow) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3336-water-bottles-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3324-split-the-array) |
 | [3583-count-special-triplets](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3583-count-special-triplets) |
