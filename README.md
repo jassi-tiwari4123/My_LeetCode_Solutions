@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2451-odd-string-difference](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2553-separate-the-digits-in-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2615-sum-of-distances](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2615-sum-of-distances) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -981,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2582-pass-the-pillow](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2582-pass-the-pillow) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
