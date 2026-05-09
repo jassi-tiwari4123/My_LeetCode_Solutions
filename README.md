@@ -578,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1925-count-square-sum-triples) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2050-count-good-numbers) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2376-count-special-integers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2376-count-special-integers) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1020,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
