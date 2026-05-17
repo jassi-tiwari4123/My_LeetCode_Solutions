@@ -34,24 +34,38 @@ class Solution {
 
 
         //using hash again
+        // int n=s.length();
+        // int left=0;
+        // int right=0;
+        // int maxLen=0;
+        // int len=0;
+        // int[] Hash=new int[255];
+        // Arrays.fill(Hash,-1);
+        // while(right<n){
+        //     if(Hash[s.charAt(right)]!=-1){
+        //         if(Hash[s.charAt(right)]>=left){
+        //             left=Hash[s.charAt(right)]+1;
+        //         }
+        //     }
+        //     len=right-left+1;
+        //     maxLen=Math.max(maxLen,len);
+        //     Hash[s.charAt(right)]=right;
+        //     right++;
+        // }
+        // return maxLen;
+
+
         int n=s.length();
-        int left=0;
-        int right=0;
-        int maxLen=0;
-        int len=0;
-        int[] Hash=new int[255];
-        Arrays.fill(Hash,-1);
-        while(right<n){
-            if(Hash[s.charAt(right)]!=-1){
-                if(Hash[s.charAt(right)]>=left){
-                    left=Hash[s.charAt(right)]+1;
-                }
+        HashMap<Character,Integer> hm=new HashMap<>();
+        int res=0;
+        int start=0;
+        for(int i=0;i<n;i++){
+            if(hm.containsKey(s.charAt(i))){
+                start=Math.max(start,hm.get(s.charAt(i))+1);
             }
-            len=right-left+1;
-            maxLen=Math.max(maxLen,len);
-            Hash[s.charAt(right)]=right;
-            right++;
+            hm.put(s.charAt(i),i);
+            res=Math.max(res,i-start+1);
         }
-        return maxLen;
+        return res;
     }
 }
