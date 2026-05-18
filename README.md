@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-intervals-between-identical-elements](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2295-replace-elements-in-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2295-replace-elements-in-an-array) |
 | [2451-odd-string-difference](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2451-odd-string-difference) |
 | [2514-count-anagrams](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2514-count-anagrams) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2451-odd-string-difference](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2451-odd-string-difference) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2514-count-anagrams](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2514-count-anagrams) |
 | [2833-furthest-point-from-origin](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
