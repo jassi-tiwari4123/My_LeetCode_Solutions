@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0804-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0830-largest-triangle-area) |
 | [0860-design-circular-queue](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0860-design-circular-queue) |
+| [0860-lemonade-change](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
@@ -1048,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0769-max-chunks-to-make-sorted](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0860-lemonade-change](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0910-smallest-range-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
