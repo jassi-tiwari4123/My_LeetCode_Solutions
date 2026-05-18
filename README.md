@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1980-find-unique-binary-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2129-capitalize-the-title](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2129-capitalize-the-title) |
