@@ -583,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
@@ -1259,11 +1260,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0292-nim-game) |
 | [3462-vowels-game-in-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Geometry
