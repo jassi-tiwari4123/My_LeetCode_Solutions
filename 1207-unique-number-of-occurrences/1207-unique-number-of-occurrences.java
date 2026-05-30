@@ -7,8 +7,9 @@ class Solution {
         }
         HashSet<Integer> hs=new HashSet<>();
         for(int f:hm.values()){
-            if(hs.contains(f)) return false;
-            hs.add(f);
+            // if(hs.contains(f)) return false;
+            // hs.add(f);
+            if(!hs.add(f)) return false;
             
         }
         return true;
