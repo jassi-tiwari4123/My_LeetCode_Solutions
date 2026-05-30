@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1162-as-far-from-land-as-possible](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1162-as-far-from-land-as-possible) |
+| [1207-unique-number-of-occurrences](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0997-find-the-town-judge) |
 | [1034-subarrays-with-k-different-integers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1207-unique-number-of-occurrences](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1331-rank-transform-of-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
