@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3477-fruits-into-baskets-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3477-fruits-into-baskets-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3583-count-special-triplets](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3583-count-special-triplets) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3324-split-the-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3583-count-special-triplets](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3583-count-special-triplets) |
@@ -875,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2050-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -1383,6 +1386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1995-count-special-quadruplets) |
 | [2951-find-the-peaks](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2951-find-the-peaks) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
