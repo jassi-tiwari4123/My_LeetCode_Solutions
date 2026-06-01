@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2187-minimum-time-to-complete-trips](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2257-count-unguarded-cells-in-the-grid) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-intervals-between-identical-elements](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2295-replace-elements-in-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2295-replace-elements-in-an-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
