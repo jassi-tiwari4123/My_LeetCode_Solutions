@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3778-transform-array-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3778-transform-array-by-parity) |
+| [3838-weighted-word-mapping](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3838-weighted-word-mapping](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
@@ -1099,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3379-transformed-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3838-weighted-word-mapping](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
