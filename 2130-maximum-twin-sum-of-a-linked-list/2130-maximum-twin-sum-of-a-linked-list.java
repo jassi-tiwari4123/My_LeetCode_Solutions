@@ -14,23 +14,49 @@ class Solution {
         //by reversing the second half linkedlist
         
         //1. by stack
+        // ListNode slow=head;
+        // ListNode fast=head;
+        // while(fast!=null && fast.next!=null){
+        //     slow=slow.next;
+        //     fast=fast.next.next;
+        // }
+        // Stack<Integer> st=new Stack<>();
+        // while(slow!=null){
+        //     st.push(slow.val);
+        //     slow=slow.next;
+        // }
+        // int res=0;
+        // ListNode temp=head;
+        // while(!st.isEmpty()){
+        //     res=Math.max(res,temp.val+st.pop());
+        //     temp=temp.next;
+        // }
+        // return res;
+
+
+        //2. by reversing the sec half list
         ListNode slow=head;
         ListNode fast=head;
         while(fast!=null && fast.next!=null){
             slow=slow.next;
             fast=fast.next.next;
         }
-        Stack<Integer> st=new Stack<>();
+        ListNode prev=null;
         while(slow!=null){
-            st.push(slow.val);
-            slow=slow.next;
+            ListNode next=slow.next;
+            slow.next=prev;
+            prev=slow;
+            slow=next;
         }
         int res=0;
-        ListNode temp=head;
-        while(!st.isEmpty()){
-            res=Math.max(res,temp.val+st.pop());
-            temp=temp.next;
+        ListNode p1=head;
+        ListNode p2=prev;
+        while(p2!=null){
+            res=Math.max(res,p1.val+p2.val);
+            p1=p1.next;
+            p2=p2.next;
         }
         return res;
+
     }
 }
