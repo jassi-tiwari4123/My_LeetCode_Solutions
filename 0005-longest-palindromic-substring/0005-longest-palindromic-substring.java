@@ -1,23 +1,23 @@
 public class Solution {
     public String longestPalindrome(String s) {
-        //brute force (o^3)
+        //brute
         int n=s.length();
         String res="";
-        int start=0,len=0;
         for(int i=0;i<n;i++){
             for(int j=i;j<n;j++){
-                // String sub=s.substring(i,j+1);
-                if(isPalindrome(s,i,j) && (j-i+1)>len){
-                    start=i;
-                    len=j-i+1;
+                String sub=s.substring(i,j+1);
+                if(isPalindrome(sub,0,sub.length()-1) && sub.length()>=res.length()){
+                    res=sub;
                 }
             }
         }
-        return s.substring(start,len+start);
+        return res;
     }
-    public boolean isPalindrome(String x,int i,int j){
+    public boolean isPalindrome(String s,int i,int j){
         while(i<j){
-            if(x.charAt(i)!=x.charAt(j)) return false;
+            if(s.charAt(i)!=s.charAt(j)) {
+                return false;
+            }
             i++;
             j--;
         }
