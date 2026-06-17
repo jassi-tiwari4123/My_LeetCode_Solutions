@@ -1,5 +1,6 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
+
         //my approach but TC-O((n+m)log(n+m))
         // int n=nums1.length;
         // int m=nums2.length;
@@ -43,38 +44,79 @@ class Solution {
         //             return Math.max(l1,l2);
         //         }
         //         return (double)(Math.max(l1,l2)+Math.min(r1,r2))/2.0;
-        //     }
+            // }
         //     else if(l1>r2) high=mid1-1;
         //     else low=mid1+1;
         // }
         // return 0.0;
 
+        // //o(n+m)
+        // int n=nums1.length;
+        // int m=nums2.length;
+        // int[] merged=new int[n+m];
+        // int i=0;
+        // int j=0;
+        // int k=0;
+        // while(i<n && j<m){
+        //     if(nums1[i]<=nums2[j]){
+        //         merged[k++]=nums1[i++];
+        //     }
+        //     else{
+        //         merged[k++]=nums2[j++];
+        //     }
+        // }
+        // while(i<n){
+        //     merged[k++]=nums1[i++];
+        // }
+        // while(j<m){
+        //     merged[k++]=nums2[j++];
+        // }
+        // if((n+m)%2==0){
+        //     return (merged[((n+m)/2)-1]+merged[(n+m)/2])/2.0;
+        // }
+        // else{
+        //     return merged[(n+m)/2];
+        // }
 
+
+        //O(Log(min(n,m)))
+        
+
+        if(nums1.length>nums2.length){
+            return findMedianSortedArrays(nums2,nums1);
+        }
         int n=nums1.length;
         int m=nums2.length;
-        int[] merged=new int[n+m];
-        int i=0;
-        int j=0;
-        int k=0;
-        while(i<n && j<m){
-            if(nums1[i]<=nums2[j]){
-                merged[k++]=nums1[i++];
+        int low=0;
+        int high=n;
+
+        while(low<=high){
+
+            int mid1=low+(high-low)/2;
+            int mid2=(n+m+1)/2-mid1;
+
+            int left1=(mid1==0)?Integer.MIN_VALUE:nums1[mid1-1];
+            int left2=(mid2==0)?Integer.MIN_VALUE:nums2[mid2-1];
+
+            int right1=(mid1==n)?Integer.MAX_VALUE:nums1[mid1];
+            int right2=(mid2==m)?Integer.MAX_VALUE:nums2[mid2];
+
+            if(left1<=right2 && left2<=right1){
+                if((n+m)%2==0){
+                    return (Math.max(left1,left2)+Math.min(right1,right2))/2.0;
+                }
+                else{
+                    return Math.max(left1,left2);
+                }
+            }
+
+            else if(left1>right2){
+                high=mid1-1;
             }
             else{
-                merged[k++]=nums2[j++];
+                low=mid1+1;
             }
         }
-        while(i<n){
-            merged[k++]=nums1[i++];
-        }
-        while(j<m){
-            merged[k++]=nums2[j++];
-        }
-        if((n+m)%2==0){
-            return (merged[((n+m)/2)-1]+merged[(n+m)/2])/2.0;
-        }
-        else{
-            return merged[(n+m)/2];
-        }
+        return 0.0;
     }
 }
