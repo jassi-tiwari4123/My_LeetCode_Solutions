@@ -15,46 +15,41 @@
  */
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
+        // List<List<Integer>> res=new ArrayList<>();
+        // Queue<TreeNode> q=new LinkedList<>();
+        // if(root==null) return res;
+        // q.add(root);
+        // while(!q.isEmpty()){
+        //     int size=q.size();
+        //     ArrayList<Integer> arr=new ArrayList<>();
+        //     for(int i=0;i<size;i++){
+        //         TreeNode cur=q.poll();
+        //         arr.add(cur.val);
+        //         if(cur.left!=null) q.add(cur.left);
+        //         if(cur.right!=null) q.add(cur.right);
+        //     }
+        //     res.add(arr);
+        // }
+        // return res;
+
         List<List<Integer>> res=new ArrayList<>();
         Queue<TreeNode> q=new LinkedList<>();
         if(root==null) return res;
         q.add(root);
         while(!q.isEmpty()){
-            int size=(q.size());
-            ArrayList<Integer> op=new ArrayList<>();
+            List<Integer> part=new ArrayList<>();
+            int size=q.size();
             for(int i=0;i<size;i++){
                 TreeNode cur=q.poll();
-                op.add(cur.val);
+                part.add(cur.val);
                 if(cur.left!=null) q.add(cur.left);
                 if(cur.right!=null) q.add(cur.right);
             }
-            res.add(op);
+            res.add(part);
         }
         return res;
     }
 }
-
-
-// List<List<Integer>> result=new ArrayList<>();
-        // if(root==null){
-        //     return result;
-        // }
-        
-        // Queue<TreeNode> queue=new LinkedList<>();
-        // queue.add(root);
-        // while(!queue.isEmpty()){
-        //     int size=queue.size();
-        //     List<Integer> level=new ArrayList<>();
-        //     for(int i=0;i<size;i++){
-        //         TreeNode t=queue.poll();
-        //         level.add(t.val);
-        //         if(t.left!=null) queue.add(t.left);
-        //         if(t.right!=null) queue.add(t.right);
-        //     }
-        //     result.add(level);
-        // }
-        // return result;
-
 
         //without using queue
     //     List<List<Integer>> result=new ArrayList<>();
