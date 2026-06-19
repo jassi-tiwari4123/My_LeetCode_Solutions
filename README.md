@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1711-count-good-meals](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1711-count-good-meals) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1732-find-the-highest-altitude](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1765-map-of-highest-peak](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1765-map-of-highest-peak) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1603-running-sum-of-1d-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
