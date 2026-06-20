@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2514-count-anagrams](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2514-count-anagrams) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2810-faulty-keyboard](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -1113,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2582-pass-the-pillow](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2582-pass-the-pillow) |
+| [2810-faulty-keyboard](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2810-faulty-keyboard) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3379-transformed-array) |
