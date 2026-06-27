@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0518-coin-change-ii) |
@@ -1097,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0874-walking-robot-simulation) |
