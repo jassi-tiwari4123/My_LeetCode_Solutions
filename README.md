@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -885,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1162-as-far-from-land-as-possible) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
