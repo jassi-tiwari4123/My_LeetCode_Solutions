@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2615-sum-of-distances) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2865-beautiful-towers-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2865-beautiful-towers-i) |
 | [2902-max-pair-sum-in-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2902-max-pair-sum-in-an-array) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3477-fruits-into-baskets-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1091,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -1321,6 +1324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1481,6 +1485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Queue
 |  |
@@ -1538,6 +1543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Segment Tree
 |  |
 | ------- |
