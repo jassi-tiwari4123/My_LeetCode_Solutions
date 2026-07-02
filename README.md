@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1035-uncrossed-lines) |
 | [1037-valid-boomerang](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1046-last-stone-weight) |
+| [1048-longest-string-chain](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0997-find-the-town-judge) |
 | [1034-subarrays-with-k-different-integers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1021-remove-outermost-parentheses](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1048-longest-string-chain](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1048-longest-string-chain) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -773,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1018-largest-perimeter-triangle](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -881,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1012-numbers-with-repeated-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1012-numbers-with-repeated-digits) |
 | [1013-fibonacci-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 | [1035-uncrossed-lines](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1035-uncrossed-lines) |
+| [1048-longest-string-chain](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1137-n-th-tribonacci-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
