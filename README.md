@@ -699,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2376-count-special-integers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2376-count-special-integers) |
+| [2413-smallest-even-multiple](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2413-smallest-even-multiple) |
 | [2514-count-anagrams](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2514-count-anagrams) |
 | [2544-alternating-digit-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2544-alternating-digit-sum) |
 | [2582-pass-the-pillow](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2582-pass-the-pillow) |
@@ -1628,5 +1629,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
