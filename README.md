@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1925-count-square-sum-triples](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1925-count-square-sum-triples) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -1623,5 +1625,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
