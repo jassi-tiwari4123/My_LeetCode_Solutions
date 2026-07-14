@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3285-find-indices-of-stable-mountains](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3285-find-indices-of-stable-mountains) |
@@ -1128,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Simulation
 |  |
