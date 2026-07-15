@@ -658,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0231-power-of-two) |
@@ -1435,6 +1436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0593-valid-square) |
 | [0830-largest-triangle-area](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0830-largest-triangle-area) |
 | [1037-valid-boomerang](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1037-valid-boomerang) |
