@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3285-find-indices-of-stable-mountains](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3324-split-the-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3324-split-the-array) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3477-fruits-into-baskets-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3477-fruits-into-baskets-ii) |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2615-sum-of-distances) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Divide and Conquer
 |  |
@@ -1190,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2810-faulty-keyboard) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3336-water-bottles-ii) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3379-transformed-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
