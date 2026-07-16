@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3583-count-special-triplets](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3583-count-special-triplets) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3324-split-the-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3583-count-special-triplets](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3583-count-special-triplets) |
 | [3663-find-the-least-frequent-digit](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3663-find-the-least-frequent-digit) |
@@ -1093,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2865-beautiful-towers-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2865-beautiful-towers-i) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Design
 |  |
 | ------- |
@@ -1241,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-minimum-array-length-after-pair-removals](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Union Find
 |  |
@@ -1477,6 +1481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2865-beautiful-towers-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2865-beautiful-towers-i) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Database
 |  |
 | ------- |
