@@ -15,8 +15,8 @@ class Solution {
                 }
             }
         }
-        int[] dirR={1,-1,0,0};
-        int[] dirC={0,0,-1,1};
+        int[] dirR={0,0,-1,1};
+        int[] dirC={-1,1,0,0};
         while(!q.isEmpty()){
             int[] cur=q.poll();
             int r=cur[0];
@@ -24,6 +24,7 @@ class Solution {
             for(int i=0;i<4;i++){
                 int nr=r+dirR[i];
                 int nc=c+dirC[i];
+                if(nr<0 || nr>n || nc<0 || nc>m) continue;
                 if(nr>=0 && nr<n && nc>=0 && nc<m){
                     if(res[nr][nc]>res[r][c]+1){
                         res[nr][nc]=res[r][c]+1;
