@@ -25,11 +25,11 @@ class Solution {
                 int nr=r+dirR[i];
                 int nc=c+dirC[i];
                 if(nr<0 || nr>n || nc<0 || nc>m) continue;
-                if(nr>=0 && nr<n && nc>=0 && nc<m){
-                    if(res[nr][nc]>res[r][c]+1){
+                if(nr>=0 && nr<n && nc>=0 && nc<m && res[nr][nc]==Integer.MAX_VALUE){
+                    // if(res[nr][nc]>res[r][c]+1){
                         res[nr][nc]=res[r][c]+1;
                         q.add(new int[]{nr,nc});
-                    }
+                    // }
                 }
             }
         }
