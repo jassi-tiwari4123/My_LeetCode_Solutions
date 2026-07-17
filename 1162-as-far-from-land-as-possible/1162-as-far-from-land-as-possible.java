@@ -30,7 +30,7 @@ class Solution {
                 }
                
             }
-             dist++;
+            dist++;
         }
         return dist-1;
     }
