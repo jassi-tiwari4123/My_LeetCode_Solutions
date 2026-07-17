@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0910-smallest-range-ii) |
 | [0929-unique-email-addresses](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0934-shortest-bridge](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0934-shortest-bridge) |
 | [0941-sort-array-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -1147,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0741-cherry-pickup) |
 | [0867-transpose-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0867-transpose-matrix) |
+| [0934-shortest-bridge](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -1329,6 +1331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0834-sum-of-distances-in-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0886-possible-bipartition) |
+| [0934-shortest-bridge](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0934-shortest-bridge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -1400,6 +1403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0886-possible-bipartition) |
+| [0934-shortest-bridge](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0934-shortest-bridge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1020-number-of-enclaves) |
