@@ -2,43 +2,41 @@
 // or 1 (obstacle). A normal BFS works only for unweighted graphs and
 // finds the shortest path in terms of steps, not the minimum obstacle removals.
 
-class Solution {
-    class Pair{
-        int row;
-        int col;
-        int dist;
-        Pair(int r,int c,int d){
-            this.row=r;
-            this.col=c;
-            this.dist=d;
-        }
-    }
-    public int minimumObstacles(int[][] grid) {
+class Solution{
+    public int minimumObstacles(int[][] grid){
         int n=grid.length;
         int m=grid[0].length;
+        int[] dirR={0,0,-1,1};
+        int[] dirC={-1,1,0,0};
         int[][] dist=new int[n][m];
         for(int i=0;i<n;i++){
             Arrays.fill(dist[i],Integer.MAX_VALUE);
         }
-        PriorityQueue<Pair> pq=new PriorityQueue<>((a,b)->a.dist-b.dist);
+        Deque<int[]> q=new ArrayDeque<>();
         dist[0][0]=0;
-        pq.add(new Pair(0,0,0));
-        int[] dirR={0,0,-1,1};
-        int[] dirC={-1,1,0,0};
-        while(!pq.isEmpty()){
-            Pair cur=pq.poll();
-            int x=cur.row;
-            int y=cur.col;
-            int cost=cur.dist;
-            if(x==n-1 && y==m-1) return dist[n-1][m-1];
+        q.add(new int[]{0,0,0});
+        while(!q.isEmpty()){
+            int[] cur=q.pollFirst();
+            int r=cur[0];
+            int c=cur[1];
+            int obstacle=cur[2];
+            if(r==n-1 && c==m-1) return dist[n-1][m-1];
             for(int i=0;i<4;i++){
-                int nx=x+dirR[i];
-                int ny=y+dirC[i];
-                if(nx>=0 && nx<n && ny>=0 && ny<m){
-                    int newCost=cost+grid[nx][ny];
-                    if(newCost<dist[nx][ny]){
-                        dist[nx][ny]=newCost;
-                        pq.add(new Pair(nx,ny,newCost));
+                int nr=r+dirR[i];
+                int nc=c+dirC[i];
+                if(nr>=0 && nr<n && nc>=0 && nc<m){
+                    if(grid[nr][nc]==1){
+                        int cost=grid[nr][nc]+obstacle;
+                        if(cost<dist[nr][nc]){
+                            dist[nr][nc]=cost;
+                            q.offerLast(new int[]{nr,nc,cost});
+                        }
+                    }
+                    else{
+                        if(obstacle<dist[nr][nc]){
+                            dist[nr][nc]=obstacle;
+                            q.offerFirst(new int[]{nr,nc,obstacle});
+                        }
                     }
                 }
             }
@@ -46,6 +44,54 @@ class Solution {
         return -1;
     }
 }
+
+
+
+
+// class Solution {
+//     class Pair{
+//         int row;
+//         int col;
+//         int dist;
+//         Pair(int r,int c,int d){
+//             this.row=r;
+//             this.col=c;
+//             this.dist=d;
+//         }
+//     }
+//     public int minimumObstacles(int[][] grid) {
+//         int n=grid.length;
+//         int m=grid[0].length;
+//         int[][] dist=new int[n][m];
+//         for(int i=0;i<n;i++){
+//             Arrays.fill(dist[i],Integer.MAX_VALUE);
+//         }
+//         PriorityQueue<Pair> pq=new PriorityQueue<>((a,b)->a.dist-b.dist);
+//         dist[0][0]=0;
+//         pq.add(new Pair(0,0,0));
+//         int[] dirR={0,0,-1,1};
+//         int[] dirC={-1,1,0,0};
+//         while(!pq.isEmpty()){
+//             Pair cur=pq.poll();
+//             int x=cur.row;
+//             int y=cur.col;
+//             int cost=cur.dist;
+//             if(x==n-1 && y==m-1) return dist[n-1][m-1];
+//             for(int i=0;i<4;i++){
+//                 int nx=x+dirR[i];
+//                 int ny=y+dirC[i];
+//                 if(nx>=0 && nx<n && ny>=0 && ny<m){
+//                     int newCost=cost+grid[nx][ny];
+//                     if(newCost<dist[nx][ny]){
+//                         dist[nx][ny]=newCost;
+//                         pq.add(new Pair(nx,ny,newCost));
+//                     }
+//                 }
+//             }
+//         }
+//         return -1;
+//     }
+// }
 
 
 
