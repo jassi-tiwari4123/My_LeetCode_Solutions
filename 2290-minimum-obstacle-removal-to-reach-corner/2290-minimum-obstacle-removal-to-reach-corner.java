@@ -20,7 +20,7 @@ class Solution {
         for(int i=0;i<n;i++){
             Arrays.fill(dist[i],Integer.MAX_VALUE);
         }
-        PriorityQueue<Pair> pq=new PriorityQueue<>((a,b)->Integer.compare(a.dist,b.dist));
+        PriorityQueue<Pair> pq=new PriorityQueue<>((a,b)->a.dist-b.dist);
         dist[0][0]=0;
         pq.add(new Pair(0,0,0));
         int[] dirR={0,0,-1,1};
