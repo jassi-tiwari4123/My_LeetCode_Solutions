@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1048-longest-string-chain) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -1098,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1544-make-the-string-great](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1544-make-the-string-great) |
@@ -1242,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0910-smallest-range-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -1499,6 +1502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0907-sum-of-subarray-minimums](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2865-beautiful-towers-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2865-beautiful-towers-i) |
