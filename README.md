@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1166,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -1427,6 +1429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1603,6 +1606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1046-last-stone-weight) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1514-path-with-maximum-probability](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -1648,6 +1652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0997-find-the-town-judge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1791-find-center-of-star-graph) |
@@ -1689,6 +1694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1514-path-with-maximum-probability) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
