@@ -14,13 +14,17 @@ class Solution {
         }
         int x=0;
         int[] inter=new int[totalLen];
-        for(int i=totalLen-shift;i<totalLen;i++){
-            inter[x]=samp[i];
-            x++;
-        }
-        for(int i=0;i<totalLen-shift;i++){
-            inter[x]=samp[i];
-            x++;
+        // for(int i=totalLen-shift;i<totalLen;i++){
+        //     inter[x]=samp[i];
+        //     x++;
+        // }
+        // for(int i=0;i<totalLen-shift;i++){
+        //     inter[x]=samp[i];
+        //     x++;
+        // }
+
+        for(int i=0;i<totalLen;i++){
+            inter[(i+shift)%totalLen]=samp[i];
         }
         int ind=0;
         for(int i=0;i<n;i++){
