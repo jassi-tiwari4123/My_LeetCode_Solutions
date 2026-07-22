@@ -2,7 +2,12 @@ class Solution {
     public int countLargestGroup(int n) {
         HashMap<Integer,ArrayList<Integer>> hm=new HashMap<>();
         for(int i=1;i<=n;i++){
-            int sum=sumOfDig(i);
+            int temp=i;
+            int sum=0;
+            while(temp>0){
+                sum+=temp%10;
+                temp/=10;
+            }
             if(!hm.containsKey(sum)){
                 hm.put(sum,new ArrayList<>());
             }
@@ -20,14 +25,14 @@ class Solution {
         }
         return res;
     }
-    public int sumOfDig(int x){
-        int sum=0;
-        while(x>0){
-            sum+=x%10;
-            x/=10;
-        }
-        return sum;
-    }
+    // public int sumOfDig(int x){
+    //     int sum=0;
+    //     while(x>0){
+    //         sum+=x%10;
+    //         x/=10;
+    //     }
+    //     return sum;
+    // }
 }
 
 
