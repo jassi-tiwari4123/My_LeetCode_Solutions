@@ -1354,6 +1354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0834-sum-of-distances-in-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0834-sum-of-distances-in-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0886-possible-bipartition) |
@@ -1429,6 +1430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0886-possible-bipartition) |
 | [0934-shortest-bridge](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0934-shortest-bridge) |
@@ -1660,6 +1662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0834-sum-of-distances-in-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0834-sum-of-distances-in-tree) |
 | [0886-possible-bipartition](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0886-possible-bipartition) |
 | [0990-satisfiability-of-equality-equations](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0990-satisfiability-of-equality-equations) |
@@ -1749,5 +1752,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [2050-parallel-courses-iii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2050-parallel-courses-iii) |
 <!---LeetCode Topics End-->
