@@ -24,10 +24,12 @@ class Solution {
         for(int x:graph[src]){
             if(!vis[x]){
                 if(dfs(x,vis,path,check,graph)==true){
+                    check[src]=false;
                     return true;
                 }
             }
             else if(path[x]==true){
+                check[src]=false;
                 return true;
             }
         }
