@@ -760,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-water-bottles-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3336-water-bottles-ii) |
 | [3360-stone-removal-game](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3360-stone-removal-game) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -1654,6 +1655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Queue
 |  |
@@ -1701,6 +1703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 ## Union-Find
 |  |
 | ------- |
@@ -1739,6 +1742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1514-path-with-maximum-probability) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -1768,6 +1772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
