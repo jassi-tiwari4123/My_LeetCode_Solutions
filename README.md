@@ -591,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2942-find-words-containing-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-water-bottles-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3336-water-bottles-ii) |
@@ -1310,6 +1312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
