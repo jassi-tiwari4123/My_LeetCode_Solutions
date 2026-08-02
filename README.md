@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1631-path-with-minimum-effort](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
+| [1690-stone-game-vii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1690-stone-game-vii) |
 | [1711-count-good-meals](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1711-count-good-meals) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1690-stone-game-vii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1690-stone-game-vii) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1925-count-square-sum-triples](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1952-three-divisors) |
@@ -1008,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1690-stone-game-vii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1690-stone-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2050-parallel-courses-iii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2050-parallel-courses-iii) |
 | [2376-count-special-integers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2376-count-special-integers) |
@@ -1549,6 +1552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1025-divisor-game) |
+| [1690-stone-game-vii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1690-stone-game-vii) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3462-vowels-game-in-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Geometry
