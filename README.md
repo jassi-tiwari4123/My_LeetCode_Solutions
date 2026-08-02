@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0788-rotated-digits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [0830-largest-triangle-area](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0910-smallest-range-ii) |
 | [1012-numbers-with-repeated-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1012-numbers-with-repeated-digits) |
@@ -990,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0788-rotated-digits) |
 | [0834-sum-of-distances-in-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0834-sum-of-distances-in-tree) |
+| [0877-stone-game](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1012-numbers-with-repeated-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1012-numbers-with-repeated-digits) |
 | [1013-fibonacci-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1013-fibonacci-number) |
@@ -1544,6 +1547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1025-divisor-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3462-vowels-game-in-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
