@@ -1,24 +1,37 @@
+//memo
+// class Solution {
+//     public int minCostClimbingStairs(int[] cost) {
+//         int n=cost.length;
+//         int[] dp=new int[n];
+//         Arrays.fill(dp,-1);
+//         int res=Math.min(fxn(0,n,cost,dp),fxn(1,n,cost,dp));
+//         return res;
+//     }
+//     public int fxn(int ind,int n,int[] cost,int[] dp){
+//         if(ind>=n) return 0;
+//         if(dp[ind]!=-1) return dp[ind];
+//         int one=cost[ind]+fxn(ind+1,n,cost,dp);
+//         int two=cost[ind]+fxn(ind+2,n,cost,dp);
+//         dp[ind]=Math.min(one,two);
+//         return dp[ind];
+//     }
+
+// }
+
+
+//tab
 class Solution {
     public int minCostClimbingStairs(int[] cost) {
         int n=cost.length;
         int[] dp=new int[n];
-        Arrays.fill(dp,-1);
-        int res=Math.min(fxn(0,n,cost,dp),fxn(1,n,cost,dp));
-        return res;
+        dp[0]=cost[0];
+        dp[1]=cost[1];
+        for(int i=2;i<n;i++){
+            dp[i]=cost[i]+Math.min(dp[i-1],dp[i-2]);
+        }
+        return Math.min(dp[n-1],dp[n-2]);
     }
-    public int fxn(int ind,int n,int[] cost,int[] dp){
-        if(ind>=n) return 0;
-        if(dp[ind]!=-1) return dp[ind];
-        int one=cost[ind]+fxn(ind+1,n,cost,dp);
-        int two=cost[ind]+fxn(ind+2,n,cost,dp);
-        dp[ind]=Math.min(one,two);
-        return dp[ind];
-    }
-
 }
-
-
-
 
 
 
