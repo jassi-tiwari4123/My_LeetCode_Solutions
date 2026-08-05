@@ -1,27 +1,46 @@
-class Solution {
-    int[] dp;
-    public int climbStairs(int n, int[] costs) {
-        dp=new int[n+1];
-        Arrays.fill(dp,-1);
-        return fxn(n,costs);
-    }
-    public int fxn(int ind,int[] cost){
-        if(ind==0 || ind<0) return 0;
-        if(dp[ind]!=-1) return dp[ind];
-        int ans=Integer.MAX_VALUE;
-        if(ind>=0){
-            ans=Math.min(ans,cost[ind-1]+1+fxn(ind-1,cost));
-        }
-        if(ind>1){
-            ans=Math.min(ans,cost[ind-1]+4+fxn(ind-2,cost));
-        }
-        if(ind>2){
-            ans=Math.min(ans,cost[ind-1]+9+fxn(ind-3,cost));
-        }
-        return dp[ind]=ans;
+//memo
+// class Solution {
+//     int[] dp;
+//     public int climbStairs(int n, int[] costs) {
+//         dp=new int[n+1];
+//         Arrays.fill(dp,-1);
+//         return fxn(n,costs);
+//     }
+//     public int fxn(int ind,int[] cost){
+//         if(ind==0 || ind<0) return 0;
+//         if(dp[ind]!=-1) return dp[ind];
+//         int ans=Integer.MAX_VALUE;
+//         if(ind>=0){
+//             ans=Math.min(ans,cost[ind-1]+1+fxn(ind-1,cost));
+//         }
+//         if(ind>1){
+//             ans=Math.min(ans,cost[ind-1]+4+fxn(ind-2,cost));
+//         }
+//         if(ind>2){
+//             ans=Math.min(ans,cost[ind-1]+9+fxn(ind-3,cost));
+//         }
+//         return dp[ind]=ans;
         
+//     }
+// }
+
+//tabulation
+class Solution {
+    public int climbStairs(int n, int[] cost) {
+        int[] dp=new int[n+1];
+        dp[0]=0;
+        for(int i=1;i<=n;i++){
+            int res=Integer.MAX_VALUE;
+            if(i>=1) res=Math.min(res,cost[i-1]+dp[i-1]+1);
+            if(i>=2) res=Math.min(res,cost[i-1]+dp[i-2]+4);
+            if(i>=3) res=Math.min(res,cost[i-1]+dp[i-3]+9);
+            dp[i]=res;
+        }
+        return dp[n];
     }
 }
+
+
 
 
 
