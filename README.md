@@ -779,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3222-find-the-winning-player-in-coin-game](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-water-bottles-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3336-water-bottles-ii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3360-stone-removal-game) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -1668,6 +1669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1995-count-special-quadruplets) |
 | [2951-find-the-peaks](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2951-find-the-peaks) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
