@@ -1101,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [0868-binary-gap](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1009-complement-of-base-10-integer) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
