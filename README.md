@@ -1103,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
