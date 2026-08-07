@@ -3,15 +3,15 @@ class Solution {
     public int rob(int[] nums) {
         int n=nums.length;
         dp=new int[n];
-        Arrays.fill(dp,-1);
-        return fxn(n-1,nums);
-    }
-    public int fxn(int ind,int[] nums){
-        if(ind<0) return 0;
-        if(dp[ind]!=-1) return dp[ind];
-        int take=nums[ind]+fxn(ind-2,nums);
-        int not=fxn(ind-1,nums);
-        return dp[ind]= Math.max(take,not);
+        dp[0]=nums[0];
+        int take=0;
+        for(int i=1;i<n;i++){
+            take=nums[i];
+            if(i>1) take+=dp[i-2];
+            int not=dp[i-1];
+            dp[i]=Math.max(take,not);
+        }
+        return dp[n-1];
     }
 }
 
