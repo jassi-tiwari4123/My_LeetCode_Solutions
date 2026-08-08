@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0910-smallest-range-ii) |
 | [0929-unique-email-addresses](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0934-shortest-bridge) |
 | [0941-sort-array-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0941-valid-mountain-array) |
@@ -1016,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-stone-game](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1012-numbers-with-repeated-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1012-numbers-with-repeated-digits) |
 | [1013-fibonacci-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1025-divisor-game) |
@@ -1235,6 +1237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0741-cherry-pickup) |
 | [0867-transpose-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0867-transpose-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1020-number-of-enclaves) |
