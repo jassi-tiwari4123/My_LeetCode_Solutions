@@ -1862,4 +1862,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0337-house-robber-iii) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
