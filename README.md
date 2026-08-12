@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0389-find-the-difference) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0433-minimum-genetic-mutation) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0394-decode-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0415-add-strings) |
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0307-range-sum-query-mutable) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -1556,6 +1559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
