@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3693-climbing-stairs-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3693-climbing-stairs-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3731-find-missing-elements) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3778-transform-array-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3778-transform-array-by-parity) |
@@ -1133,6 +1134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Linked List
 |  |
 | ------- |
