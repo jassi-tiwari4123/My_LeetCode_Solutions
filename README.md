@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2295-replace-elements-in-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2295-replace-elements-in-an-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2351-first-letter-to-appear-twice](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2451-odd-string-difference](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2451-odd-string-difference) |
 | [2514-count-anagrams](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2514-count-anagrams) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -960,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2514-count-anagrams](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2514-count-anagrams) |
 | [2833-furthest-point-from-origin](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -1136,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
