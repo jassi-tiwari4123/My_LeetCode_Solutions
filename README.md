@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1528-shuffle-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1528-shuffle-string) |
+| [1539-kth-missing-positive-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1539-kth-missing-positive-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
