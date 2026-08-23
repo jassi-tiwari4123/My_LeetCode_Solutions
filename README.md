@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0169-majority-element) |
@@ -743,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0168-excel-sheet-column-title) |
@@ -1661,6 +1664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0223-rectangle-area) |
 | [0587-erect-the-fence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0593-valid-square) |
@@ -1954,4 +1958,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0587-erect-the-fence) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
