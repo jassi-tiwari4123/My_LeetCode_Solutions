@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2498-frog-jump-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2498-frog-jump-ii) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -957,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -1310,6 +1312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
