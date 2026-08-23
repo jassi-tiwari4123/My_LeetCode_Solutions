@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0575-distribute-candies) |
+| [0587-erect-the-fence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0587-erect-the-fence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0587-erect-the-fence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -1653,6 +1655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0223-rectangle-area) |
+| [0587-erect-the-fence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0593-valid-square) |
 | [0830-largest-triangle-area](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0830-largest-triangle-area) |
 | [1037-valid-boomerang](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1037-valid-boomerang) |
@@ -1936,4 +1939,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2029-stone-game-ix) |
+## Convex Hull
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0587-erect-the-fence) |
+## Polygons
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
