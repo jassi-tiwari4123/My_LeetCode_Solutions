@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2418-sort-the-people](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2418-sort-the-people) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2451-odd-string-difference](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2451-odd-string-difference) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2351-first-letter-to-appear-twice](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2418-sort-the-people](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2418-sort-the-people) |
 | [2451-odd-string-difference](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2451-odd-string-difference) |
 | [2514-count-anagrams](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2514-count-anagrams) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2418-sort-the-people](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2418-sort-the-people) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2451-odd-string-difference](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -956,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2418-sort-the-people](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2418-sort-the-people) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
