@@ -781,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0587-erect-the-fence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0587-erect-the-fence) |
