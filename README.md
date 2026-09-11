@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2104-sum-of-subarray-ranges](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2121-intervals-between-identical-elements](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
 | [1995-count-special-quadruplets](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1995-count-special-quadruplets) |
+| [2094-finding-3-digit-even-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2121-intervals-between-identical-elements](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -968,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -1155,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2050-count-good-numbers) |
+| [2094-finding-3-digit-even-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
@@ -1790,6 +1794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1952-three-divisors) |
 | [1995-count-special-quadruplets](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1995-count-special-quadruplets) |
+| [2094-finding-3-digit-even-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2951-find-the-peaks](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2951-find-the-peaks) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
