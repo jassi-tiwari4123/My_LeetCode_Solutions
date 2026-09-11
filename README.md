@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3238-find-the-number-of-winning-players](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3238-find-the-number-of-winning-players) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3285-find-indices-of-stable-mountains](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3285-find-indices-of-stable-mountains) |
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-water-bottles-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3336-water-bottles-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
