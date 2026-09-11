@@ -1198,6 +1198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2595-number-of-even-and-odd-bits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2595-number-of-even-and-odd-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
