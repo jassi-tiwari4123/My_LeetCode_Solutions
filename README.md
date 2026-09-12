@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-parallel-courses-iii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2050-parallel-courses-iii) |
+| [2054-two-best-non-overlapping-events](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2057-smallest-index-with-equal-value](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1901-find-a-peak-element-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2054-two-best-non-overlapping-events](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2187-minimum-time-to-complete-trips) |
@@ -971,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2054-two-best-non-overlapping-events](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -1111,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-stone-game-vii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1690-stone-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2050-parallel-courses-iii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2050-parallel-courses-iii) |
+| [2054-two-best-non-overlapping-events](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2376-count-special-integers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2376-count-special-integers) |
 | [2560-house-robber-iv](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2560-house-robber-iv) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
@@ -1819,6 +1823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
+| [2054-two-best-non-overlapping-events](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
