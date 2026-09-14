@@ -797,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0788-rotated-digits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [0830-largest-triangle-area](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0910-smallest-range-ii) |
@@ -1702,6 +1703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0593-valid-square) |
 | [0830-largest-triangle-area](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1037-valid-boomerang](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1037-valid-boomerang) |
 ## Combinatorics
 |  |
