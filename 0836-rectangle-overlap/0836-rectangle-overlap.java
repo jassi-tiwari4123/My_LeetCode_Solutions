@@ -2,6 +2,10 @@ class Solution {
     //overlap-> !(no overlap)
     public boolean isRectangleOverlap(int[] rec1, int[] rec2) {
         //condition for no overlap
-        return !(rec1[2]<=rec2[0] || rec2[2]<=rec1[0] || rec1[3]<=rec2[1] || rec2[3]<=rec1[1]);
+        boolean h=rec1[2]>rec2[0] && rec2[2]>rec1[0];
+        boolean v=rec1[3]>rec2[1] && rec2[3]>rec1[1];
+        return h && v;
+        
+        // return !(rec1[2]<=rec2[0] || rec2[2]<=rec1[0] || rec1[3]<=rec2[1] || rec2[3]<=rec1[1]);
     }
 }
