@@ -2008,4 +2008,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0278-first-bad-version) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
