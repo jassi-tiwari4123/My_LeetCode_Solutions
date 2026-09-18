@@ -676,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -1669,6 +1670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## String Matching
 |  |
 | ------- |
@@ -1811,6 +1813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
