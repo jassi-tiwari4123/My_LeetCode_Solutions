@@ -816,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1390-four-divisors) |
 | [1399-count-largest-group](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1399-count-largest-group) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -1707,6 +1708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0830-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1037-valid-boomerang](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1037-valid-boomerang) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |
