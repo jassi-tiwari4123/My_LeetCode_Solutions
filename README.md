@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4015-weighted-sum-of-a-tree](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/4015-weighted-sum-of-a-tree) |
+| [4024-nearest-available-drone](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/4024-nearest-available-drone) |
 ## Binary Search
 |  |
 | ------- |
@@ -1822,6 +1823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [4024-nearest-available-drone](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/4024-nearest-available-drone) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Heap (Priority Queue)
 |  |
