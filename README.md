@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Binary Search
 |  |
 | ------- |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-minimum-array-length-after-pair-removals](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Math
 |  |
 | ------- |
@@ -1005,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3778-transform-array-by-parity) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Counting
 |  |
 | ------- |
@@ -1461,6 +1464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Union Find
 |  |
 | ------- |
