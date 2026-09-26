@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1765-map-of-highest-peak) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1711-count-good-meals](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1711-count-good-meals) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
 | [1995-count-special-quadruplets](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1995-count-special-quadruplets) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
