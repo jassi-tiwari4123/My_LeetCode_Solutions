@@ -653,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2315-count-asterisks](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
