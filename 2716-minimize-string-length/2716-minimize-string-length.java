@@ -1,11 +1,16 @@
 class Solution {
     public int minimizedStringLength(String s) {
         int n=s.length();
-        HashMap<Character,Integer> hm=new HashMap<>();
+        HashSet<Character> hs=new HashSet<>();
         for(int i=0;i<n;i++){
-            char ch=s.charAt(i);
-            hm.put(ch,hm.getOrDefault(ch,0)+1);
+            hs.add(s.charAt(i));
         }
-        return hm.size();
+        return hs.size();
+        // HashMap<Character,Integer> hm=new HashMap<>();
+        // for(int i=0;i<n;i++){
+        //     char ch=s.charAt(i);
+        //     hm.put(ch,hm.getOrDefault(ch,0)+1);
+        // }
+        // return hm.size();
     }
 }
