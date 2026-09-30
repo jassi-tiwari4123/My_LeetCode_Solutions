@@ -3,12 +3,10 @@ class Solution {
         int n=s.length();
         Stack<Character> st=new Stack<>();
         for(int i=0;i<n;i++){
-            if(!st.isEmpty() && st.peek()==s.charAt(i)){
+            if(!st.isEmpty() && s.charAt(i)==st.peek()){
                 st.pop();
             }
-            else{
-                st.push(s.charAt(i));
-            }
+            else st.push(s.charAt(i));
         }
         StringBuilder sb=new StringBuilder();
         while(!st.isEmpty()){
