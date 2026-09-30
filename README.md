@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0792-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0804-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0830-largest-triangle-area) |
+| [0848-shifting-letters](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0848-shifting-letters) |
 | [0860-design-circular-queue](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0860-design-circular-queue) |
 | [0860-lemonade-change](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0867-transpose-matrix) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0742-to-lower-case) |
 | [0796-rotate-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0804-unique-morse-code-words) |
+| [0848-shifting-letters](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0848-shifting-letters) |
 | [0929-unique-email-addresses](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -907,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0724-find-pivot-index) |
+| [0848-shifting-letters](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0848-shifting-letters) |
 | [0930-binary-subarrays-with-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1140-stone-game-ii) |
