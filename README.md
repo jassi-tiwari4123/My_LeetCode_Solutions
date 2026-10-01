@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2381-shifting-letters-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2381-shifting-letters-ii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2418-sort-the-people](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2418-sort-the-people) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2381-shifting-letters-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2418-sort-the-people](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2418-sort-the-people) |
@@ -926,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1991-find-the-middle-index-in-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2121-intervals-between-identical-elements](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2121-intervals-between-identical-elements) |
+| [2381-shifting-letters-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2381-shifting-letters-ii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2574-left-and-right-sum-differences](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2574-left-and-right-sum-differences) |
