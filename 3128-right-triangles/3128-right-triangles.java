@@ -44,22 +44,29 @@ class Solution {
         long res=0L;
         int[] row=new int[n];
         int[] col=new int[m];
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(grid[j][i]==1){
-                    col[i]++;
-                }
-            }
-        }
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j]==1){
-                    row[i]++;
-                }
-            }
-        }
+        // for(int i=0;i<m;i++){
+        //     for(int j=0;j<n;j++){
+        //         if(grid[j][i]==1){
+        //             col[i]++;
+        //         }
+        //     }
+        // }
+        // for(int i=0;i<n;i++){
+        //     for(int j=0;j<m;j++){
+        //         if(grid[i][j]==1){
+        //             row[i]++;
+        //         }
+        //     }
+        // }
         // System.out.println(Arrays.toString(row));
         // System.out.println(Arrays.toString(col));
+
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                row[i]+=grid[i][j];
+                col[j]+=grid[i][j];
+            }
+        }
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(grid[i][j]==1){
