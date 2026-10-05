@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0804-unique-morse-code-words) |
 | [0848-shifting-letters](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0848-shifting-letters) |
+| [0856-score-of-parentheses](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0925-long-pressed-name](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0942-di-string-match) |
@@ -1312,6 +1313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0856-score-of-parentheses](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -2083,6 +2085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
