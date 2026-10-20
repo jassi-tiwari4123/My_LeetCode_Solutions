@@ -888,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2582-pass-the-pillow) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2843-count-symmetric-integers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2843-count-symmetric-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1896,6 +1897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1995-count-special-quadruplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2843-count-symmetric-integers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2843-count-symmetric-integers) |
 | [2951-find-the-peaks](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2951-find-the-peaks) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
