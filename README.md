@@ -711,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4026-maximum-gap-between-stations](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/4026-maximum-gap-between-stations) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
