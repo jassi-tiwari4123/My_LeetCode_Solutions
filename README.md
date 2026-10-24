@@ -681,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2381-shifting-letters-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2409-count-days-spent-together) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2418-sort-the-people](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2418-sort-the-people) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -882,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2376-count-special-integers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2376-count-special-integers) |
+| [2409-count-days-spent-together](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/2469-convert-the-temperature) |
