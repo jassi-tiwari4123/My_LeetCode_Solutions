@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1390-four-divisors) |
 | [1399-count-largest-group](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1399-count-largest-group) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -956,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -1381,6 +1384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0729-my-calendar-i) |
 | [0838-design-linked-list](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0860-design-circular-queue) |
+| [1352-product-of-the-last-k-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Queue
 |  |
@@ -2155,4 +2159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/0056-merge-intervals) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/jassi-tiwari4123/My_LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
